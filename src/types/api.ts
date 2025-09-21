@@ -6,8 +6,7 @@ import type {
   InvestmentMemo, 
   InvestorPreferences,
   Question,
-  CallRequest,
-  Notification
+  CallRequest
 } from './index'
 
 // ============================================================================

@@ -3,8 +3,7 @@
 import type { 
   Notification, 
   CallRequest, 
-  CallResponse,
-  TranscriptEntry 
+  CallResponse 
 } from './index'
 
 // ============================================================================
